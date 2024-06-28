@@ -1,5 +1,4 @@
-###
-Detect dangling DNS
+### Detect dangling DNS
 
 ### Description
 This script helps in identifying dangling DNS records by performing various scans on a list of domains. It takes input from a file called domains.txt, scans each domain for various parameters, and exports the results in JSON and CSV formats.
